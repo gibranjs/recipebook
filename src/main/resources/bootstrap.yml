@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: mainservice
+  profiles:
+    active:
+      default
